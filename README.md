@@ -1,4 +1,4 @@
-## Hi there 👋,  welcome to my page!
+## Hi there 👋, welcome to my page!
 
 ### I am Foysal, a Full Stack Software Engineer living in London.
 
@@ -17,7 +17,8 @@
 <code><img height="40" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Foysal's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+
 <!--
 **franadam/franadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
